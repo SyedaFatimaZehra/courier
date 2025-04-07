@@ -1,0 +1,164 @@
+
+.form1{
+    border: 5px solid rgb(141, 141, 231);
+    border-radius: 10px;
+    width: 15%;
+    padding: 30px;
+    margin-left: 39.7%;
+    margin-top: 9.5%;
+}
+
+.form23{
+    border: 5px solid rgb(141, 141, 231);
+    border-radius: 10px;
+    width: 57vmin;
+    padding: 2%;
+    margin-left:31.7rem;
+    margin-top: 0.5%;
+    height: 100%;
+}
+
+
+
+input{
+    border-radius: 12px;
+    margin-left: 9%;
+   border: none;
+   padding: 5px;
+   background-color: rgb(238, 209, 154);
+}
+
+.labin input{
+    border-radius: 12px;
+    margin-left: 5%;
+   border: none;
+   padding: 0%;
+   background-color: rgb(238, 209, 154);
+}
+
+.labin label{
+    margin-left: 10px;
+}
+
+table{
+   border: 5px solid blanchedalmond;
+    border-radius: 15px;
+    /* color: rgb(94, 77, 47); */
+    color: rgb(13, 83, 145);
+    margin-top: 3%; 
+    margin-left: 28%;
+    padding: 10px;
+    width: 45%;
+}
+
+ th, td {
+    border: 2px solid;
+    border-radius: 9px;
+    padding: 3px;
+  }
+
+  
+ 
+
+input[type=submit] {
+  background-color: rgb(235, 105, 105); 
+  border: none;
+  padding: 8px;
+  margin-top: 20px;
+  margin-left: 34%;
+  color: rgb(238, 221, 192);
+  border-radius: 100px;
+  width: 33%;
+     
+}
+label{
+
+   margin-left: 10%;
+   color:rgb(137, 111, 64);
+}
+
+.head{
+     color: rgb(94, 77, 47); 
+     margin-left: 60px;
+}
+
+.head1{
+    
+    color: rgb(94, 77, 47); 
+    margin-left: 25px;
+}
+
+.head66{
+    color: rgb(94, 77, 47); 
+    margin-left: 40px;
+    margin-top: 1px;
+}
+
+.head3{
+    color: rgb(94, 77, 47); 
+    margin-left: 25px;
+}
+
+
+.ho2 {
+    width: 65%; 
+    margin-top: 35px;
+    margin-left: 36%;
+    
+    
+}
+.ho2 a{
+    padding: 7px;
+    background-color:   rgb(238, 221, 192);
+    text-decoration: none;
+    border-radius: 18px;
+    color:rgb(235, 105, 105);
+}
+
+.ht{
+    width: 191%; 
+   margin-top: 20px;
+}
+.ht a{
+  
+    margin-left: 17.5%;
+    background-color:   rgb(238, 221, 192);
+    text-decoration: none;
+    padding: 7px;
+    border-radius: 18px;
+    color:rgb(235, 105, 105);
+}
+
+
+.log1{
+    border: solid 3.5px rgb(236, 68, 68)  ;
+    
+    padding: 5px;
+    width: 47px;
+    border-radius: 18px;
+    margin-top: 19px;
+    margin-left: 47.5%;
+}
+.log1 a{
+    color:rgb(236, 68, 68);
+    text-decoration: none;
+}
+
+.ht23{
+    width: 100%; 
+
+   display: flex;
+  
+   margin-left: 10%;
+    margin-top: 20px;
+}
+.ht23 a{
+    margin-left: 9%;
+    background-color:   rgb(238, 221, 192);
+    text-decoration: none;
+    padding: 8px;
+    border-radius: 18px;
+    color:rgb(235, 105, 105);
+}
+
+
